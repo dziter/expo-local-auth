@@ -47,5 +47,7 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+	<key>NSFaceIDUsageDescription</key>
+	<string>$(PRODUCT_NAME) Authentification avec TouchId ou FaceID. Cela permettra de sécuriser votre compte.</string>
 </dict>
 </plist>

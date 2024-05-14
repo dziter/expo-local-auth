@@ -4977,6 +4977,7 @@ __metadata:
     babel-jest: "npm:^29.6.3"
     eslint: "npm:^8.19.0"
     expo: "npm:^51.0.0"
+    expo-local-authentication: "npm:~14.0.1"
     jest: "npm:^29.6.3"
     prettier: "npm:2.8.8"
     react: "npm:18.2.0"
@@ -5761,6 +5762,17 @@ __metadata:
   peerDependencies:
     expo: "*"
   checksum: 10c0/9f374279948d8df6f6a28361fb5d85460d6a6e1224a9d40b1e3bd181b348b94dfedaf44f83440880f377e68422ea7ae774c061889a63792ee81245c344c47c55
+  languageName: node
+  linkType: hard
+
+"expo-local-authentication@npm:~14.0.1":
+  version: 14.0.1
+  resolution: "expo-local-authentication@npm:14.0.1"
+  dependencies:
+    invariant: "npm:^2.2.4"
+  peerDependencies:
+    expo: "*"
+  checksum: 10c0/0726f0b34e160efe016643af5171d92ccc04d1a26fc5f01d23580f552cb4032c382b36edbac9247deebc6f6678127e52a1ef2400ea1b132fb01abe1fba9bde6e
   languageName: node
   linkType: hard
 
